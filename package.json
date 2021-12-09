@@ -4,6 +4,8 @@
   "localstorage": "https://www.tutorialspoint.com/localstorage-in-reactjs",
   "react-icons": "https://react-icons.github.io/react-icons",
   "you": "https://youtu.be/E1E08i2UJGI",
+  "git": "https://github.com/prabhat-cn/todo-static-data-js.git",
+  "netlify": "",
   "developer": "Prabhat",
   "private": true,
   "dependencies": {
@@ -18,7 +20,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "local-build": "react-scripts build",
+    "build": "CI= react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
