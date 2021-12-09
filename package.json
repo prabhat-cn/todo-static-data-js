@@ -5,7 +5,7 @@
   "react-icons": "https://react-icons.github.io/react-icons",
   "you": "https://youtu.be/E1E08i2UJGI",
   "git": "https://github.com/prabhat-cn/todo-static-data-js.git",
-  "netlify": "",
+  "netlify": "https://todo-static-js.netlify.app/",
   "developer": "Prabhat",
   "private": true,
   "dependencies": {
